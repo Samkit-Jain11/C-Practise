@@ -1,1 +1,1 @@
-I have started leanrning github . This wasmy first push oon the repo i hope i push more
+I am learning C from youtube . Here are some of the problem what i am doing of every topic to improve logic . i hope I am doing it correct .
