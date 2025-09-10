@@ -4,7 +4,7 @@
 
 int main() {
 
-    int sum = 0 , n , i ;
+    int sum = 5 , n , i ;
     printf("Enter the number till where you want to see the sum  :\n");
     scanf("%d", &n);
 
